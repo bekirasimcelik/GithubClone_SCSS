@@ -462,6 +462,9 @@ td {
 }
 .Main-about-dsc {
   margin-top: 16px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 .Main-projects {
   width: 100%;
@@ -474,7 +477,7 @@ td {
 }
 .Main-projects-links a {
   color: #586069;
-  font-size: 14px;
+  font-size: 25px;
 }
 .Main-projects .Section {
   margin-top: 20px;
@@ -482,7 +485,7 @@ td {
   justify-content: space-between;
 }
 .Main-projects .Section a {
-  font-size: 12px;
+  font-size: 20px;
   color: #586069;
 }
 .Main-projects .container {

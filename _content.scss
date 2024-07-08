@@ -36,6 +36,9 @@
 
   &-about-dsc {
     margin-top: 16px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
   }
 
   &-projects {
@@ -49,7 +52,7 @@
 
       a {
         color: #586069;
-        font-size: 14px;
+        font-size: 25px;
       }
     }
 
@@ -59,7 +62,7 @@
       justify-content: space-between;
 
       a {
-        font-size: 12px;
+        font-size: 20px;
         color: #586069;
       }
     }
