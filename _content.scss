@@ -1,0 +1,23 @@
+.Main {
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+
+  &-about-img {
+    img {
+      width: 240px;
+    }
+  }
+
+  &-about-title {
+    margin-top: 30px;
+    h3 {
+      padding-bottom: 10px;
+    }
+
+    h4 {
+      padding-bottom: 30px;
+    }
+  }
+}
